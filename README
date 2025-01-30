@@ -1,0 +1,23 @@
+# Bioinformatics Approach to Predict Candidiasis-Related MicroRNAs  
+
+## Overview  
+This repository contains supplemental materials related to the Master's dissertation by **Tiago Pereira de Miranda**, developed at the **University of Minho's School of Engineering**. The dissertation, titled *"Development of a Bioinformatics Approach to Predict Candidiasis-Related MicroRNAs"*, is supervised by **Dr. Bruna Gonçalves** and **Dr. Filipa Ferraz**.  
+
+## Project Context  
+This research is part of the **Chip4VVC project**, which aims to develop a portable microfluidic system integrated with optical biosensors for the rapid diagnosis of **vulvovaginal candidiasis (VVC)**. Funded by **LABBELS**, the project seeks to enhance VVC management through innovative diagnostic tools.  
+
+## Contents  
+This repository includes the following resources:  
+- **Data Sets**: Raw and processed data used for microRNA prediction.  
+- **Scripts**: Bioinformatics scripts for data analysis and visualization.  
+- **Documentation**: Detailed guides on methodologies, data sources, and analysis protocols.  
+- **References**: A curated list of research articles and studies cited in the dissertation.  
+
+## Getting Started  
+To use the scripts and data in this repository, ensure that you have the following prerequisites installed:  
+- **Python 3.x**  
+- Required libraries: `pandas`, `numpy`, `biopython`, etc.  
+
+### Clone the repository:  
+```bash  
+git clone https://github.com/tiagomiranda24/Bioinformatics-approach-to-predicted-candidiasis-related-microRNAs.git
