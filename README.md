@@ -13,6 +13,11 @@ This research is part of the **Chip4VVC project**, which aims to develop a porta
 
 <br>
 
+## Project Objective:  
+To develop a bioinformatics framework capable of accurately predicting microRNAs (miRNAs) associated with candidiasis. This project integrates data science, molecular biology, and clinical microbiology to enhance the understanding of Candida infections and support innovative diagnostic and therapeutic approaches based on miRNA biomarkers.
+
+<br>
+
 ## Repository Contents  
 This repository includes the following resources:  
 
