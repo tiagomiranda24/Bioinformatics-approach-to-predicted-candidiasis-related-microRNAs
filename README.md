@@ -1,7 +1,7 @@
 # Bioinformatics Approach to Predict Candidiasis-Related MicroRNAs  
 
 ## Overview  
-This repository contains supplemental materials related to the Master's dissertation by **Tiago Pereira de Miranda**, developed at the **University of Minho's School of Engineering**.  
+This repository contains supplemental materials related to the Master's dissertation by **Tiago Miranda**, developed at the **University of Minho's School of Engineering**.  
 The dissertation, titled *"Development of a Bioinformatics Approach to Predict Candidiasis-Related MicroRNAs"*, is supervised by:  
 - **Dr. Bruna Gonçalves**  
 - **Dr. Filipa Ferraz**  
