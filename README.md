@@ -15,14 +15,15 @@ This research is part of the **Chip4VVC project**, which aims to develop a porta
 
 ## Repository Contents  
 This repository includes the following resources:  
-- **Data Sets**:  
-  - Raw and processed data used for microRNA prediction.  
+
+- **Dissertation**:  
+  - The **preliminary dissertation** will be made available in February 2025. The repository will be updated with the **final version of the dissertation** once it has been defended.  
+
+- **Appendices and Data Sets**:  
+  - Supplementary files related to the dissertation, as well as raw and processed data used for microRNA prediction.  
+
 - **Scripts**:  
-  - Bioinformatics scripts for data analysis and visualization.  
-- **Documentation**:  
-  - Detailed guides on methodologies, data sources, and analysis protocols.  
-- **References**:  
-  - A curated list of research articles and studies cited in the dissertation.  
+  - Scripts for data analysis and visualization.  
 
 <br>
 
